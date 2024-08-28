@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Angel wish;
+    src:
+        url(Fontes/Angel-wish.otf),
+        url(Fontes/Angel-wish.ttf);
+}
+
+.texto_Centralizado {
+    font-family: Angel wish;
+    font-size: 24px;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 65rem;
+    max-width: 50rem;
+    color: black;
+}
+body {
+    background-image: url(Imagens/background.jpg);
+    background-repeat: no-repeat;
+    background-color: #F0B51D;
+}
+
+a {
+    color: #8B0000;
+}
